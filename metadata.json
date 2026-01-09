@@ -1,0 +1,7 @@
+{
+  "name": "SortMaster AI: EduTech Pro",
+  "description": "An AI-powered gamified learning platform for B.Tech students to master sorting algorithms through interactive games, automated visualizations, and real-time AI tutoring.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
